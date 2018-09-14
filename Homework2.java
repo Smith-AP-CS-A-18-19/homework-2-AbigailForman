@@ -19,6 +19,7 @@ public class Homework2 {
 	 * uppercase letters and return the result
 	 * Hint: Search the String class for 'uppercase'
 	 */
+	 //This is some code
 
 
 	/* Write the method strip
